@@ -1,0 +1,2 @@
+console.log(`'Portugal is in Europe, and its 11 million 
+people speak portuguese'`);
